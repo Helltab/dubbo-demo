@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: provider
+  profiles:
+    include: common
+server:
+  port: 8881
+dubbo:
+  scan:
+    base-packages: com.helltab.cloud.provider.rpc

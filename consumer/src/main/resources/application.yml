@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: consumer
+  profiles:
+    include: common
+server:
+  port: 8882
+dubbo:
+  cloud:
+    subscribed-services: provider
