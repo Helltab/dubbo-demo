@@ -11,7 +11,7 @@ cd nacos/bin
 sh startup.sh -m standalone
 ```
 
-![image-20210117141650146](README.assets/image-20210117141650146.png)
+![image-20210117141650146](./README.assets/image-20210117141650146.png)
 
 ## 父依赖
 
@@ -19,7 +19,7 @@ sh startup.sh -m standalone
 
 > [版本查看](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 
-![image-20210117142046479](README.assets/image-20210117142046479-1610864958861.png)
+![image-20210117142046479](./README.assets/image-20210117142046479-1610864958861.png)
 
 ![image-20210117142057383](README.assets/image-20210117142057383.png)
 
